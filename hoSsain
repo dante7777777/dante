@@ -23,4 +23,3 @@ go version
 cd $HOME
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
-git checkout v0.6.0
