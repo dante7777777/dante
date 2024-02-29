@@ -165,6 +165,3 @@ curl -s localhost:26657/status | grep block_height
 ---------------------------------------------------
 
 celestia-appd keys add $CELESTIA_WALLET
-
-
------------------------------------
