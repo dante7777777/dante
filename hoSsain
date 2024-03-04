@@ -158,5 +158,3 @@ sudo systemctl restart celestia-appd && journalctl -u celestia-appd -f -o cat
 -------------------------------------------------
 
 ---------------------------------
-
-curl -s localhost:26657/status 
