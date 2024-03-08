@@ -18,3 +18,4 @@ yesterday
 dragging @ dropping
 18 loc appppps
 element page
+pages/chain/[chain].js
