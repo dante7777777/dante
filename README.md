@@ -8,8 +8,5 @@ oh no
 good fish
 mariyana
 ommit
-yesterday
-dragging @ dropping
-18 loc appppps
-element page
+yest
 pages/chain/[chain].js
