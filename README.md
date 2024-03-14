@@ -5,3 +5,4 @@ contact_links:
 dante 
 oh no 
 pages/chain/[chain].js
+hami chai hshdh
