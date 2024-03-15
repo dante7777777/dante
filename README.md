@@ -3,12 +3,7 @@ contact_links:
 
     about: For quick questions or technical troubleshooting, please ask them on our dedicated Discord channel.come on
 dante 
-oh no 
-pages/chain/[chain].js
-hami chai hshdh
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
 /node_modules
 /.pnp
 .pnp.js
