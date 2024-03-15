@@ -130,8 +130,6 @@ Press CTRL+C to stop the logs
 
 -------------------------------------------------------------
 
-sudo systemctl stop celestia-appd
-
 -------------------------------------------------------------
 cd $HOME
 mkdir -p ~/.celestia-app/data
