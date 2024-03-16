@@ -10,9 +10,6 @@ dante
 
 # testing
 /coverage
-
-# next.js
-/.next/
 /out/
 
 # production
