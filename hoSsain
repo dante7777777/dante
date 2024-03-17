@@ -122,12 +122,6 @@ sudo mv $HOME/celestia-appd.service /etc/systemd/system/
 sudo systemctl enable celestia-appd
 sudo systemctl daemon-reload
 
-------------------------------------------------------------
-Press CTRL+C to stop the logs
-
--------------------------------------------------------------
-
--------------------------------------------------------------
-cd $HOME
+--------------------------------------cd $HOME
 mkdir -p ~/.celestia-app/data
 SNAP_NAME=$(curl -s https://snaps.qubelabs.io/celestia/ | \
