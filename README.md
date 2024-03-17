@@ -27,9 +27,3 @@ yarn-error.log
 .env.test.local
 .env.production.local
 .env
-
-# vercel
-.vercel
-
-# others
-bjkkjhkjuild.log4
