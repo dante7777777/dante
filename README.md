@@ -8,15 +8,6 @@ dante
 /.pnp
 .pnp.js
 
-# testing
-/coverage
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
 *.pem
 
 # debug
