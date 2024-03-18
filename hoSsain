@@ -32,11 +32,6 @@ make install
 git clone https://github.com/celestiaorg/networks
 cd $HOME
 rm -rf network
-CELESTIA_NODENAME="MY_NODE" 
-CELESTIA_WALLET="MY_WALLET"
-CELESTIA_CHAIN="mamaki"
-
-
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
