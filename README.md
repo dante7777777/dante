@@ -9,6 +9,4 @@ dante
 .pnp.js
 
 *.pem
-.env.test.local
-.env.production.local
-.env
+
