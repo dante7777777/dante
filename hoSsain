@@ -110,4 +110,3 @@ sudo systemctl enable celestia-appd
 sudo systemctl daemon-reload
 
 --------------------------------------cd $HOME
-mkdir -p ~/.celestia-app/data
