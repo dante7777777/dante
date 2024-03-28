@@ -4,9 +4,7 @@
         let className = 'bg-inherit';	            let className = "bg-inherit";
 
 
-        }	            }
-
-
+ 
         return (	            return (
           <Row	              <Row
             values={item}	                values={item}
