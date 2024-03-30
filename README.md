@@ -9,4 +9,3 @@
           <Row	              <Row
             values={item}	                values={item}
             chain={chain}	                chain={chain}
-            key={index}	                key={item.data.url + chain + lang}dante7777777/dante7777777 is a ✨
