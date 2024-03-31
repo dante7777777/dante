@@ -8,4 +8,4 @@
         return (	            return (
           <Row	              <Row
             values={item}	                values={item}
-            chain={chain}	                chain={chain}
+        
