@@ -7,5 +7,4 @@
  
         return (	            return (
           <Row	              <Row
-            values={item}	                values={item}
         
