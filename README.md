@@ -6,5 +6,3 @@
 
  
         return (	            return (
-          <Row	              <Row
-        
