@@ -92,4 +92,3 @@ tee $HOME/celestia-appd.service > /dev/null <<EOF
   User=$USER
   ExecStart=$(which celestia-appd) start
   Restart=on-failure
-  RestartSec=3
