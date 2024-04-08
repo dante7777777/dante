@@ -6,7 +6,6 @@ let className = 'bg-inherit';	            let className = "bg-inherit";
     SOLUTIONS = '/solutions',
     DISCORD = 'https://discord.gg/y6fHnxZQX8',
     GITHUB = 'https://github.com/availproject',
-    TWITTER = 'https://twitter.com/AvailProject',NKEDIN = 'https://www.linkedin.com/company/availproject/',
 let className = 'bg-inherit';	            let className = "bg-inherit";
   
     DOCUMENTATION = 'https://availproject.github.io/',
