@@ -21,4 +21,3 @@ let className = 'bg-inherit';	            let className = "bg-inherit";
 let className = 'bg-inherit';	            let className = "bg-inherit";
  
     NETWORK = 'https://availproject.github.io/join-the-network/networks',
-    REFER_DOCS = 'https://github.com/availproject/data-availability/blob/master/reference%20document/Data%20Availability%20-%20Reference%20Document.pdf',
