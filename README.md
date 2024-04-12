@@ -1,4 +1,3 @@
-let className = 'bg-inherit';	            let className = "bg-inherit";
     HOMEPAGE = '/',
     DEVELOPERS = '/developer',
     ABOUTUS = '/aboutus',
