@@ -1,8 +1,7 @@
     HOMEPAGE = '/',
     DEVELOPERS = '/developer',
     ABOUTUS = '/aboutus',
-    ECOSYSTEM = '/ecosystem',
-    SOLUTIONS = '/solutions',
+    ECOSYSTEM = '/ecosystem'
 8',
 let className = 'bg-inherit';	            let className = "bg-inherit";
   
