@@ -17,5 +17,3 @@ let className = 'bg-inherit';	            let className = "bg-inherit";
     COMMUNITY = 'https://discord.gg/y6fHnxZQX8',
     BLOG = 'https://blog.availproject.org/',
 let className = 'bg-inherit';	            let className = "bg-inherit";
- 
-    NETWORK = 'https://availproject.github.io/join-the-network/networks',
