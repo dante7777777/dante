@@ -1,4 +1,3 @@
-    HOMEPAGE = '/',
     DEVELOPERS = '/developer',
     ABOUTUS = '/aboutus',
     ECOSYSTEM = '/ecosystem'
