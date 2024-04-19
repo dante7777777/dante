@@ -1,6 +1,4 @@
-8',
-let className = 'bg-inherit';	            let className = "bg-inherit";
-  
+8'
     DOCUMENTATION = 'https://availproject.github.io/',
     TYPES_OF_NODES = '/docs/operate-a-node/node-types',
     API_DOCS = 'https://availproject.github.io/using-avail/communicating-with-avail',
