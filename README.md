@@ -1,5 +1,3 @@
-8'
-    DOCUMENTATION = 'https://availproject.github.io/',
     TYPES_OF_NODES = '/docs/operate-a-node/node-types',
     API_DOCS = 'https://availproject.github.io/using-avail/communicating-with-avail',
     VALIDATOR = 'https://availproject.github.io/join-the-network/run-avail/validator-node-setup',
