@@ -1,4 +1,3 @@
-    API_DOCS = 'https://availproject.github.io/using-avail/communicating-with-avail',
     VALIDATOR = 'https://availproject.github.io/join-the-network/run-avail/validator-node-setup',
     BECOME_VALIDATOR = '/docs/operate-a-node/become-a-validator',
     FAUCET = 'https://availproject.github.io/using-avail/getting-started/testnet-faucet',
