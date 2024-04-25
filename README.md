@@ -1,4 +1,3 @@
-BECOME_VALIDATOR = '/docs/operate-a-node/become-a-validator',
     FAUCET = 'https://availproject.github.io/using-avail/getting-started/testnet-faucet',
     EXPLORER = 'https://availproject.github.io/using-avail/getting-started/avail-explorer',
     CAREERS = 'https://availproject.zohorecruit.com/jobs/Careers',
