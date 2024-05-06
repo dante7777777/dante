@@ -1,4 +1,4 @@
-// Docs: https://docs.axiom.xyz/sdk/typescript-sdk/axiom-circuit/
+
 
 // Example Axiom REPL circuit to prove the average balance of an account over a fixed time period
 // Number of samples to take. Note that this must be a constant value and NOT an input because the size of 
