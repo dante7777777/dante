@@ -1,6 +1,3 @@
-//    /  \   __  ___  ___  _ __ ___ | |__) | |__  | |__) | |     
-//   / /\ \  \ \/ / |/ _ \| '_ ` _ \|  _  /|  __| |  ___/| |     
-//                                                              
 // Docs: https://docs.axiom.xyz/sdk/typescript-sdk/axiom-circuit/
 
 // Example Axiom REPL circuit to prove the average balance of an account over a fixed time period
