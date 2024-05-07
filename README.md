@@ -1,13 +1,9 @@
-
-
 // Example Axiom REPL circuit to prove the average balance of an account over a fixed time period
 // Number of samples to take. Note that this must be a constant value and NOT an input because the size of 
 // the circuit must be known at compile time.
 const samples = 8;
-
 // Number of blocks between each sample.
 const spacing = 900;
-
 // Validate that the block number is greater than the number of samples times the spacing
 if (inputs.blockNumber.value() <= (samples * spacing)) {
   throw new Error("Block number must be greater than the number of samples times the spacing");
