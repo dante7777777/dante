@@ -1,4 +1,3 @@
-// Number of samples to take. Note that this must be a constant value and NOT an input because the size of 
 // the circuit must be known at compile time.
 const samples = 8;
 // Number of blocks between each sample.
