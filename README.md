@@ -23,8 +23,6 @@ let total = constant(0);
 for (const account of sampledAccounts) {
   const balance: CircuitValue256 = await account.balance();
   total = add(total, balance.toCircuitValue());
-}
-
 // Divide the total amount by the number of samples to get the average value
 const average = div(total, samples);
 
