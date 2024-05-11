@@ -1,5 +1,3 @@
-// the circuit must be known at compile time.
-const samples = 8;
 // Number of blocks between each sample.
 const spacing = 900;
 // Validate that the block number is greater than the number of samples times the spacing
