@@ -28,4 +28,3 @@ const average = div(total, samples);
 // been proven in ZK. The values can then be handled by our contract once the prover calls the callback function.
 addToCallback(inputs.blockNumber);
 addToCallback(inputs.address);
-addToCallback(average);
