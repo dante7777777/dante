@@ -1,4 +1,3 @@
-// Number of blocks between each sample.
 const spacing = 900;
 // Validate that the block number is greater than the number of samples times the spacing
 if (inputs.blockNumber.value() <= (samples * spacing)) {
