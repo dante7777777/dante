@@ -13,8 +13,6 @@ for (let i = 0; i < samples; i++) {
   const sampleBlockNumber: CircuitValue = sub(inputs.blockNumber, mul(spacing, i));
   const account = getAccount(sampleBlockNumber, inputs.address);
   sampledAccounts[i] = account;
-}
-
 // Accumulate all of the balances to `total`
 let total = constant(0);
 for (const account of sampledAccounts) {
