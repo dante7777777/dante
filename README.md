@@ -1,4 +1,4 @@
-const spacing = 900;
+
 // Validate that the block number is greater than the number of samples times the spacing
 if (inputs.blockNumber.value() <= (samples * spacing)) {
   throw new Error("Block number must be greater than the number of samples times the spacing");
