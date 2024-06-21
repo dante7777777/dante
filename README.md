@@ -18,4 +18,3 @@ for (const account of sampledAccounts) {
 // Divide the total amount by the number of samples to get the average value
 const average = div(total, samples);
 // We call `addToCallback` on all values that we would like to be passed to our contract after the circuit has
-// been proven in ZK. The values can then be handled by our contract once the prover calls the callback function.
