@@ -16,5 +16,4 @@ for (const account of sampledAccounts) {
   const balance: CircuitValue256 = await account.balance();
   total = add(total, balance.toCircuitValue());
 // Divide the total amount by the number of samples to get the average value
-const average = div(total, samples);
-// We call `addToCallback` on all values that we would like to be passed to our contract after the circuit has
+const average = div(total, samples)
